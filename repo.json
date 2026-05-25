@@ -11,48 +11,38 @@
   ],
 
   "apps": [
-    {
-      "name": "delta-x",
-      "bundleIdentifier": "com.roblox.delta",
-      "developerName": "deltaexploits",
-
-      "iconURL": "https://raw.githubusercontent.com/nova-th/recat/main/deta/game/roblox-delta/unnamed.jpg",
-
-      "screenshotURLs": [
-        "https://raw.githubusercontent.com/nova-th/recat/main/deta/game/roblox-delta/delta-executor-38248-11.jpg",
-        "https://raw.githubusercontent.com/nova-th/recat/main/deta/game/roblox-delta/Screenshot_20240920-145535_Roblox.webp"
-      ],
-
-      "localizedDescription": "Yet another codesigning app.",
-      "subtitle": "The Roblox Delta",
-      "category": "games",
-      "tintColor": "3156FF",
-
-      "appPermissions": {
-        "entitlements": [
-          "com.apple.developer.networking.wifi-info"
-        ],
-
-        "privacy": {
-          "NSPhotoLibraryUsageDescription": "Used to import IPA files."
-        }
-      },
-
-      "versions": [
-        {
-          "version": "2.720.1164",
-          "buildVersion": "1",
-          "date": "2025-05-25T01:41:00+07:00",
-
-          "downloadURL": "https://mega.nz/file/k3lS1azR#u9uAPc1wSn_KoRgbJNSPrss2ts6xrciCEgFW5LZ7vlM",
-
-          "size": 14000000,
-
-          "localizedDescription": "• new update",
-
-          "minOSVersion": "16.0"
-        }
-      ]
+   {
+  "name": "delta-x",
+  "bundleIdentifier": "com.roblox.delta",
+  "developerName": "deltaexploits",
+  "iconURL": "https://raw.githubusercontent.com/nova-th/recat/main/deta/game/roblox-delta/unnamed.jpg",
+  "screenshotURLs": [
+    "https://raw.githubusercontent.com/nova-th/recat/main/deta/game/roblox-delta/delta-executor-38248-11.jpg",
+    "https://raw.githubusercontent.com/nova-th/recat/main/deta/game/roblox-delta/Screenshot_20240920-145535_Roblox.webp"
+  ],
+  "localizedDescription": "Yet another codesigning app.",
+  "subtitle": "The Roblox Delta",
+  "category": "games",
+  "tintColor": "3156FF",
+  "appPermissions": {
+    "entitlements": [
+      "com.apple.developer.networking.wifi-info"
+    ],
+    "privacy": {
+      "NSPhotoLibraryUsageDescription": "Used to import IPA files."
     }
+  },
+  "versions": [
+    {
+      "version": "2.720.1164",
+      "buildVersion": "1",
+      "date": "2025-05-25T01:41:00+07:00",
+      "downloadURL": "https://mega.nz/file/k3lS1azR#u9uAPc1wSn_KoRgbJNSPrss2ts6xrciCEgFW5LZ7vlM",
+      "size": 14000000,
+      "localizedDescription": "• new update",
+      "minOSVersion": "16.0"
+    }
+  ]
+}
   ]
 }

@@ -44,19 +44,20 @@
         {
           "version": "2.720.1164",
           "date": "2026-04-22T09:18:46Z",
-          "size":"125900000",
+          "size": "125900000",
           "downloadURL": "https://pixeldrain.com/api/file/uvaLhsKY?download"
         }
       ],
       "appPermissions": {},
       "screenshotURLs": [
         "https://github.com/nova-th/recat/blob/main/deta/game/roblox-delta/Screenshot_20240920-145535_Roblox.webp?raw=true",
-        "https://github.com/nova-th/recat/blob/main/deta/game/roblox-delta/delta-executor-38248-11.jpg?raw=true",
+        "https://github.com/nova-th/recat/blob/main/deta/game/roblox-delta/delta-executor-38248-11.jpg?raw=true"
       ],
       "version": "2.720.1164",
       "versionDate": "2026-04-22T09:18:46Z",
-      "size":"125900000",
-      "downloadURL": "https://pixeldrain.com/api/file/E2K9s9bR?download"},
+      "size": "125900000",
+      "downloadURL": "https://pixeldrain.com/api/file/E2K9s9bR?download"
+    },
     {
       "name": "Netflix",
       "bundleIdentifier": "com.netflix.Netflix",
@@ -66,15 +67,15 @@
       "tintColor": "E50914",
       "versions": [
         {
-          "version": "3.0,
-          "date": "2026-5-28:10:41Z",
+          "version": "3.0",
+          "date": "2026-05-28T10:41:00Z",
           "size": "36433922",
           "downloadURL": "https://pixeldrain.com/api/file/NygcnhJD?download"
         }
       ],
       "appPermissions": {},
-      "version": "3.0,
-      "versionDate": "2026-5-28:10:41Z",
+      "version": "3.0",
+      "versionDate": "2026-05-28T10:41:00Z",
       "size": "36433922",
       "downloadURL": "https://pixeldrain.com/api/file/NygcnhJD?download"
     }

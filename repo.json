@@ -32,18 +32,20 @@
       "size": 12598584,
       "downloadURL": "https://github.com/CLARATION/Feather/releases/download/v2.8.2/Feather.ipa"
     },
-    {"name": "delta",
+    {
+      "name": "delta",
       "bundleIdentifier": "com.gloop.deltamobile",
       "developerName": "delta",
       "iconURL": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Roblox_Logo_2025.png",
-      "localizedDescription": "Feather is a free on-device iOS application manager/installer built with UIKit for quality.",
+      "localizedDescription": "This is roblox delta.",
       "subtitle": "On-device signing application",
-      "tintColor": "848ef9",
+      "tintColor": "3661FF",
       "versions": [
         {
           "version": "2.652",
           "date": "2026-04-22T09:18:46Z",
-          "downloadURL": "https://pixeldrain.com/api/file/E2K9s9bR?download"
+          "size":"125900000",
+          "downloadURL": "https://pixeldrain.com/api/file/uvaLhsKY?download"
         }
       ],
       "appPermissions": {},
@@ -53,6 +55,7 @@
       ],
       "version": "2.652",
       "versionDate": "2026-04-22T09:18:46Z",
+      "size":"125900000",
       "downloadURL": "https://pixeldrain.com/api/file/E2K9s9bR?download"}
   ],
   "news": [
